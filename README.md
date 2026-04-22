@@ -13,9 +13,11 @@
 <img width="260" height="470" alt="스크린샷 2026-04-22 16 46 34" src="https://github.com/user-attachments/assets/faf1f7e2-cd1b-405c-ba3c-fc5af3523b35" />
 
 
+### 광석 채굴(기본 도구(곡괭이)) + 재화 보유 + MAX
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 46 55" src="https://github.com/user-attachments/assets/b915b714-4909-4ed5-8fc7-3fa62ccef573" />
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 47 20" src="https://github.com/user-attachments/assets/bb329559-03d7-4b31-a332-ed4e9df8400c" />
 
-### Main Menu
-<img width="467" height="302" alt="스크린샷 2025-11-26 15 46 55" src="https://github.com/user-attachments/assets/57dc37cc-8013-4ed8-a81f-67b96a6a66fa" />
+
 
 
 게임 모드를 선택할 수 있다.
