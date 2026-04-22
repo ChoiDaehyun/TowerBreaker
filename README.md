@@ -10,7 +10,7 @@
 
 ## 실행 화면 📸
 ### Start
-<img width="520" height="938" alt="스크린샷 2026-04-22 16 46 34" src="https://github.com/user-attachments/assets/faf1f7e2-cd1b-405c-ba3c-fc5af3523b35" />
+<img width="260" height="470" alt="스크린샷 2026-04-22 16 46 34" src="https://github.com/user-attachments/assets/faf1f7e2-cd1b-405c-ba3c-fc5af3523b35" />
 
 
 
